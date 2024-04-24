@@ -1,0 +1,20 @@
+header
+{
+    background-color: peru;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 200%;    
+}
+
+nav
+{
+    text-align: center;  
+    margin: 20px;
+}
+
+nav a 
+{
+    color: peru;
+    margin: 10px;
+}

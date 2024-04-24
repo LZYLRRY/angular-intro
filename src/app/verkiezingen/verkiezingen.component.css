@@ -1,0 +1,10 @@
+.partij
+{
+    float: left;
+    margin: 20px;
+    background-color: lightblue;
+    border: blue solid 2px;
+    padding: 10px;
+    width: 60px;
+    text-align: center;
+}
